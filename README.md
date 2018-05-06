@@ -4,6 +4,9 @@ A Mock Up Youtube App, based on a course by **Stephen Grider** on Udemy, built u
 Uses YouTube API, ES6 and Lodash.
 
 ## Setup
-- Run Npm Install
+- Clone the repository
+
+   Inside the folder run
+- Npm Install
 - Npm Start
 - Open Localhost:8080 in your browser
